@@ -1,0 +1,376 @@
+/*----------------------====
+Template Name : paul lapdin - Protfolio template
+Template URI:
+Description: An Awesome  Portfolio template 
+Author: Freelancer  Abdur Razzak
+Support: freelancer.abdurrazzak.me
+Version:1.0
+======================================*/
+/*================================
+      index
+1. COMMON CSS
+2. Hero 
+3.About
+4.Process
+5.work
+6.Latest
+7.TESTIMONIAL
+8.CONTACT
+=====================================*/
+/*================================
+1. COMMON CSS
+=====================================*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&family=Roboto:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding:0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    
+}
+html,
+body{
+    background-color: #fff;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    font-weight:400;
+    font-size: 10px;
+    text-rendering: optimizeLegibility;
+    line-height: 1.5;
+}
+a{
+    text-decoration: none;
+}
+h1,h2,h3,h4{font-family:'Raleway',sans-serif;}
+h1 {
+    
+    font-weight: 700;
+    font-size: 650%;
+    letter-spacing: 5px;
+    color: #fff;
+    display: inline-block;
+    margin:0px;
+}
+h2{font-size: 400%;}
+h4{font-size: 180%}
+h3{
+    font-size: 260%;
+    margin-bottom: 20px;
+}
+/*==========REUSABLE COMPONENTS=====*/
+
+.row{
+    width: 1180px;
+    margin: auto;
+    
+}
+ section{
+     padding:120px 0;
+ }
+
+ .btn:link,
+ .btn:visited,
+ .btn {
+     width:2;
+     font-size: 160%;
+     border:2px solid #ff2b4a;
+     padding:10px 0;
+     display: inline-block;
+     width: 200px;
+     text-align: center;
+     color: #fff;
+     background: #ff2b4a;
+     transition: .5s;
+     border-radius: 4px;
+     cursor: pointer;
+
+ }
+ .btn:hover,
+ .btn:active{
+     background:transparent;
+     color:#ff2b4a;
+     ;
+ }
+ .section-title{
+     text-align:center;
+     margin-bottom: 60px;
+
+ }
+ .section-title .section-intro 
+        {font-size: 160%;
+         margin-top: 15px;
+
+}
+/*================================
+2. Hero
+=====================================*/
+#hero { 
+    height: 100vh;
+   background:linear-gradient(rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.61)),url(img/hero.jpg) no-repeat top / cover;
+}
+.nav-logo{
+    margin-top: 45px;
+    height: 45px;
+    float: left;
+}
+.nav-icon{
+    color: #fff;
+    float: right;
+    margin-top: 45px;
+    font-size: 45px;
+    
+}
+.nav-icon ion-icon{
+    border: 2px solid #fff;
+
+}
+.hero-text-box{
+    width: 1180px;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+    text-align: center;
+   
+}
+h1::before {
+    content: '';
+    display: block;
+    height: 2px;
+    background: #fff;
+}
+h1::after {
+    content: '';
+    display: block;
+    height: 2px;
+    background: #fff;
+}
+.hero-text-box span {
+    color: #fff;
+    font-size: 200%;
+    display:inline-block;
+    margin-top: 30px;
+}
+/*================================
+3.About Section
+=====================================*/
+
+
+
+
+.grid-about-container{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 60px;
+    
+}
+.paul{width: 100%;
+    clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+
+    }
+    .intro{
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .description{
+        font-size: 16px;
+       margin: 25px 0;
+    }
+    /*================================
+4. Process section
+=====================================*/
+
+.process{background: #f6f6f6;
+        
+}
+.grid-process-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+.grid-process-iteam{
+    
+    color:#fff;
+    text-align:center;
+    padding: 80px 0;
+}
+.grid-process-iteam ion-icon{
+    font-size: 45px;
+}
+.grid-process-iteam:nth-child(1){
+    background: #10c6fc;
+}
+.grid-process-iteam:nth-child(2){
+    background:#835aeb
+    ;
+}
+.grid-process-iteam:nth-child(3){
+    background:#000000
+    ;
+}
+.grid-process-iteam:nth-child(4){
+    background: #ff2b4a;
+}
+/*================================
+5. Work section CSS
+=====================================*/
+
+
+.work{
+    background: url(img/work1.jpg) no-repeat center / cover;
+    background-attachment: fixed;
+}
+.grid-work-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 40px;
+    color: #fff;
+   
+}
+.grid-work-iteam{
+    padding:40px;
+    background: rgba(0, 0, 0, 0.795);
+
+}
+.grid-work-iteam h3{
+    text-transform: uppercase;
+}
+ .title {
+    font-size: 160%;
+    margin-top: 15px;
+
+}
+.work .description{margin-top:10px}
+.work hr{
+    border: 0px;
+    border-bottom: 2px solid#fff;
+    margin:20px 0;
+}
+/*================================
+6. latest CSS
+=====================================*/
+
+.grid-latest-container{
+    
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: minmax(250px, auto);
+    grid-gap: 15px;
+}
+.grid-latest-iteam{
+   
+    background: #000;
+}
+.grid-latest-iteam:nth-child(1){
+    background: url(img/lw1.jpg) no-repeat center / cover;
+}
+.grid-latest-iteam:nth-child(2){
+    background: url(img/lw2.jpg) no-repeat center / cover;
+   
+}
+.grid-latest-iteam:nth-child(3){
+    background: url(img/lw3.jpg) no-repeat center / cover;
+}
+.grid-latest-iteam:nth-child(4){
+    background: url(img/lw4.jpg) no-repeat center / cover;
+}
+.grid-latest-iteam:nth-child(5){
+    background: url(img/lw5.jpg) no-repeat center / cover;
+}
+.grid-latest-iteam:nth-child(6){
+    background: url(img/lw6.jpg) no-repeat center / cover;
+}
+.grid-latest-iteam:nth-child(7){
+    background: url(img/lw7.jpg) no-repeat center / cover;
+}
+.grid-latest-iteam:nth-child(5){
+    grid-column:1/3;
+}
+
+/*================================
+7. Testimonial CSS
+=====================================*/
+.testimonial{
+    background: url(img/testimonial.jpg) no-repeat center top / cover;
+}
+.grid-testimonial-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 10px;
+}
+.quoat{
+    width: 80px;
+}
+.testimonial .description {
+    
+    font-size: 160%;
+}
+.singnature{
+    margin-bottom: 15px;
+}
+.testimonial span{
+    font-size: 140%;
+}
+
+/*================================
+8. CONTACT CSS
+=====================================*/
+
+.contact{
+    background: url(img/contact.jpg) no-repeat center  / cover;
+
+}
+ h3 {
+    color: #fff;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+}
+.grid-contact-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 15px;
+    
+}
+.grid-contact-iteam:nth-child(1){
+    background: rgba(0, 0, 0, 0.8);
+    padding: 55px 45px;
+}
+.single-form input[type="text"],
+.single-form input[type="email"],
+.single-form textarea {
+    width: 100%;
+    padding:12px;
+    margin:10px 0px;
+    font-size: 16px;
+    border-radius: 5px;
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.445);
+    color: #fff;
+}
+::placeholder{
+    color:#fff;
+}
+.bta-full{margin-top: 15px;}
+
+
+/*==========2nd collumn=====*/
+
+.restred-grid-contact-container{
+    
+    color:#fff;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 15px;
+
+}
+.restred-grid-contact-iteam{
+   background: rgba(0, 0, 0, 0.8); 
+   padding:55px 45px;
+}
+.restred-grid-contact-container p {
+    font-size: 160%;;
+}
