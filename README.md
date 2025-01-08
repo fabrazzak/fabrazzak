@@ -13,8 +13,22 @@
 ###
 
 <p align="left">
-I am a professional full-stack developer with expertise in both front-end and back-end development. I specialize in creating modern, responsive, and user-friendly web applications. Currently, I am working in the Fiverr and Upwork marketplaces as a Top Rated Freelancer on the Upwork platform.
+I am a professional full-stack developer with expertise in both front-end and back-end development. I specialize in creating modern, responsive, and user-friendly web applications that meet client needs and industry standards. My proficiency includes a variety of programming languages and technologies such as HTML, CSS, JavaScript, React, Node.js, MongoDB, Express, and more. I am dedicated to writing clean, maintainable code and implementing the best practices in software development.
 </p>
+
+<p align="left">
+Currently, I am working in the Fiverr and Upwork marketplaces as a Top Rated Freelancer on the Upwork platform, helping businesses and startups bring their ideas to life. I have successfully completed numerous projects ranging from small websites to large-scale web applications. I thrive in dynamic environments and enjoy collaborating with clients to deliver exceptional solutions.
+</p>
+
+
+<p align="left">
+Beyond coding, I am constantly learning and improving my skills in emerging technologies like TypeScript, Next.js, and cloud platforms. My goal is to continue growing as a developer, tackle exciting challenges, and create impactful projects that drive success for my clients.
+</p>
+
+
+
+
+
 
 ###
 
