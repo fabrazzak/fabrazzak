@@ -1,5 +1,4 @@
 <div align="center">
-  <img height="200" src="https://github.com/fabrazzak/fabrazzak/blob/main/github-header-image.png"  />
     <img height="200" src="https://github.com/fabrazzak/fabrazzak/blob/main/github-header-image%20(1).png"  />
 </div>
 
