@@ -34,11 +34,23 @@ Beyond coding, I am constantly learning and improving my skills in emerging tech
 
 <p align="left">
 ✨ Creating bugs since 2018  
+</p>
+<p align="left">
 📚 I'm currently learning Advanced TypeScript and Next.js  
+    </p>
+<p align="left">
 🎯 Goals: Become a Senior Developer by 2025  
+    </p>
+<p align="left">
 🎲 Fun fact: I enjoy cricket and coding late at night.  
+    </p>
+<p align="left">
 🛠 I am passionate about continuous learning and exploring new technologies to stay ahead in the ever-evolving web development field.  
+    </p>
+<p align="left">
 🌍 I’ve collaborated with clients across various industries, ensuring that their web presence is efficient, engaging, and functional.  
+    </p>
+<p align="left">
 💡 I'm always eager to solve complex problems and create innovative solutions for my clients.  
 
 </p>
