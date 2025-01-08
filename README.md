@@ -2,9 +2,7 @@
   <img height="200" src="https://github.com/fabrazzak/fabrazzak/blob/main/github-header-image.png"  />
 </div>
 
-###
 
-<h1 align="left">Hey there, I am Abdur Razzak</h1>
 
 ###
 
