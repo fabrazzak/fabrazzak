@@ -120,6 +120,11 @@ Let's build something amazing together!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrazzak&show_icons=true&locale=en&layout=compact" alt="jannatun67" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabrazzak&show_icons=true&locale=en" alt="jannatun67" /></p>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/fabrazzak/fabrazzak/output/snake.svg" alt="Snake animation" />
+
+###
