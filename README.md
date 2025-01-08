@@ -120,3 +120,5 @@ Let's build something amazing together!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrazzak&show_icons=true&locale=en&layout=compact" alt="jannatun67" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabrazzak&show_icons=true&locale=en" alt="jannatun67" /></p>
+
+<div class="tenor-gif-embed" data-postid="15680842" data-share-method="host" data-aspect-ratio="1.18959" data-width="100%"><a href="https://tenor.com/view/%E3%81%8A%E4%BC%9A%E3%81%84%E5%87%BA%E6%9D%A5%E3%81%A6%E5%AC%89%E3%81%97%E3%81%84%E3%81%A7%E3%81%99-%E4%BC%9A%E3%81%88%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F-%E5%88%9D%E5%AF%BE%E9%9D%A2-%E6%89%8B%E3%82%92%E6%8C%AF%E3%82%8B-nice-to-meet-you-gif-15680842">お会い出来て嬉しいです 会えてよかった GIF</a>from <a href="https://tenor.com/search/%E3%81%8A%E4%BC%9A%E3%81%84%E5%87%BA%E6%9D%A5%E3%81%A6%E5%AC%89%E3%81%97%E3%81%84%E3%81%A7%E3%81%99-gifs">お会い出来て嬉しいです GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
