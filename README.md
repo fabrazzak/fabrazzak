@@ -91,7 +91,7 @@ I am a professional full-stack developer with expertise in both front-end and ba
 <h2 align="center">Stats and Activity</h2>
 
 
-<div  style="display: flex; justify-content: space-between; width: 100%; max-width: 800px;">
+<div  align="center" style="display: flex; justify-content: space-between; width: 100%;">
   <div style="width: 48%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrazzak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
   </div>
