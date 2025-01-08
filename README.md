@@ -41,8 +41,9 @@ Beyond coding, I am constantly learning and improving my skills in emerging tech
 🌍 I’ve collaborated with clients across various industries, ensuring that their web presence is efficient, engaging, and functional.  
 💡 I'm always eager to solve complex problems and create innovative solutions for my clients.  
 
-Let's build something amazing together!
 </p>
+
+Let's build something amazing together!
 
 ###
 
