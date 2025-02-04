@@ -2,9 +2,7 @@
     <img height="200" src="https://raw.githubusercontent.com/fabrazzak/fabrazzak/refs/heads/main/github-header-image%20(1).png" />
 </div>
 
-###
 
-<h3 align="left">Full Stack Web Developer</h3>
 
 ###
 
