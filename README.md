@@ -7,6 +7,7 @@
 <h3 align="left">Full Stack Web Developer</h3>
 
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrazzak&show_icons=true&locale=en&layout=compact" alt="ABDURRAZZAK" /></p>
 
 <h3 align="left">About me</h3>
 
@@ -113,6 +114,6 @@ Let's build something amazing together!
 <h2 align="center">Stats and Activity</h2>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrazzak&show_icons=true&locale=en&layout=compact" alt="jannatun67" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabrazzak&show_icons=true&locale=en" alt="jannatun67" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabrazzak&show_icons=true&locale=en" alt="ABDUR-RAZZAK" /></p>
