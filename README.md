@@ -2,9 +2,6 @@
     <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQFUI3m3oyaNAA/profile-displaybackgroundimage-shrink_350_1400/B56ZTwqNPAGoAY-/0/1739204384170?e=1744848000&v=beta&t=Q6QEkn201GmbeV_am8wTDtVpfAswltDyFZwDAlafplw" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=I+am+a+Full+Stack+Web+Developer" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=I+am+a+passionate+Full+Stack+Developer;With+expertise+in+both+front-end+and+back-end+technologies;+I+specialize+in+building+responsive%2C+user-friendly%2C+and+scalable+web+applications.;My+goal+is+to+write+clean+and+maintainable+code%2C+ensuring+that+all+projects+meet+industry+standards+and+client+requirements.;Currently%2C+I+am+a+Top+Rated+Freelancer+on+Upwork+and+a+dedicated+professional+on+Fiverr.;I+work+with+businesses+of+all+sizes+to+transform+their+ideas+into+functional+and+engaging+web+applications." alt="Typing SVG" />
