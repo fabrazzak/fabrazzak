@@ -69,6 +69,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrazzak&show_icons=true&locale=en&layout=compact" alt="ABDURRAZZAK" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabrazzak&show_icons=true&locale=en" alt="ABDUR-RAZZAK" /></p>
 
+<h3 align="center">A Passionate Frontend Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabrazzak&label=Profile%20views&color=0e75b6&style=flat" alt="fabrazzak" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabrazzak" alt="fabrazzak" /></a> </p>
+
 ### About Me
 I am a professional full-stack developer with expertise in both front-end and back-end development. I specialize in creating modern, responsive, and user-friendly web applications that meet client needs and industry standards. My proficiency includes a variety of programming languages and technologies such as HTML, CSS, JavaScript, React, Node.js, MongoDB, Express, Mongoose, and more. I am dedicated to writing clean, maintainable code and implementing the best practices in software development.
 
