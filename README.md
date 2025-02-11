@@ -7,12 +7,13 @@
 
 
 <div align="center">
-    <img height="200" src="https://raw.githubusercontent.com/fabrazzak/fabrazzak/refs/heads/main/github-header-image%20(1).png" />
+    <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQFUI3m3oyaNAA/profile-displaybackgroundimage-shrink_350_1400/B56ZTwqNPAGoAY-/0/1739204384170?e=1744848000&v=beta&t=Q6QEkn201GmbeV_am8wTDtVpfAswltDyFZwDAlafplw" />
 </div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=I+am+a+Front-end+Developer+%26+UI+designer" alt="Typing SVG" />
 </p>
+
 
 
 <h1 align="left">🧠 Skills Showcase</h1>
