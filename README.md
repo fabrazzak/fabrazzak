@@ -203,20 +203,12 @@ I am continuously learning and improving my skills in emerging technologies like
 
 You can reach out and connect with me on:
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-[LinkedIn](https://www.linkedin.com/in/abdur-razzak80/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-razzak80/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AbdurRazzak-i2f)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Abdurrazzak309/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01703906080)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9538E2.svg?style=for-the-badge&logo=github&logoColor=white)](https://abdur-razzak.online/)
 
-![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)
-[YouTube](https://www.youtube.com/@AbdurRazzak-i2f)
-
-![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)
-[Facebook](https://www.facebook.com/Abdurrazzak309/)
-
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)
-[WhatsApp](https://wa.me/01703906080)
-
-![Portfolio](https://img.shields.io/badge/Portfolio-9538E2.svg?style=for-the-badge&logo=github&logoColor=white)
-[My Portfolio](https://abdur-razzak.online/)
 
 
 ---
