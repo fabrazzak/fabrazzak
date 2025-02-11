@@ -1,20 +1,10 @@
 <div align="center">
     <img height="200" src="https://raw.githubusercontent.com/fabrazzak/fabrazzak/refs/heads/main/github-header-image%20(1).png" />
 </div>
-
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=I+am+a+Front-end+Developer+%26+UI+designer" alt="Typing SVG">
 </p>
 
-
-
-<p align="right">
-<a href="https://www.linkedin.com/in/ayakakojimaak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
- <a href="mailto: ayakakojima.ak@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
 
 <h1 align="left">🧠 Skills Showcase</h1>
 # 🚀 Abdur Razzak - MERN Stack Developer  
@@ -26,15 +16,23 @@ I am a passionate **MERN Stack Developer** with expertise in building modern, sc
 ## 📌 Tech Stack  
 
 ### ☕ Languages  
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 
+</div>
+
+
 ---
 
 ### ⚛️ Frameworks & Technologies  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
 ![React](https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)  
@@ -43,10 +41,13 @@ I am a passionate **MERN Stack Developer** with expertise in building modern, sc
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
 ![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
 
+</div>
+
+
 ---
 
 ### 📘 Libraries & UI Frameworks  
- <div  style="display: flex; flex-direction: column; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 ![MUI](https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
@@ -56,26 +57,26 @@ I am a passionate **MERN Stack Developer** with expertise in building modern, sc
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)  
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)  
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)  
-![GSAP](https://img.shields.io/badge/GSAP-00FF00.svg?style=for-the-badge&logo=greensock&logoColor=black)  
- </div>
+![GSAP](https://img.shields.io/badge/GSAP-00FF00.svg?style=for-the-badge&logo=greensock&logoColor=black) 
+
+
+</div>
+ 
+
 
 ---
 
 ### 🛠️ Tools & Platforms  
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
----
+</div>
 
-## 📫 Connect with Me  
-🔗 **Portfolio:** [abdur-razzak.online](https://abdur-razzak.online/)  
-🔗 **GitHub:** [github.com/fabrazzak](https://github.com/fabrazzak)  
-🔗 **LinkedIn:** [linkedin.com/in/abdur-razzak](https://linkedin.com/in/abdur-razzak)  
-
----
 
 🔥 **"I will do coding and change the world!"** 🚀
 
