@@ -82,15 +82,14 @@ Beyond coding, I am constantly learning and improving my skills in emerging tech
 
 Let's build something amazing together!
 
-### Connect with Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/abdur-razzak80/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/@AbdurRazzak-i2f" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-  <a href="https://www.facebook.com/Abdurrazzak309/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-  </a>
+
+## 🌍 Connect with Me
+
+You can reach out and connect with me at:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-razzak80/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AbdurRazzak-i2f)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Abdurrazzak309/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01703906080)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9538E2.svg?style=for-the-badge&logo=github&logoColor=white)](https://abdur-razzak.online/)
  
