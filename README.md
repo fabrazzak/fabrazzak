@@ -17,34 +17,65 @@
 </p>
 
 <h1 align="left">🧠 Skills Showcase</h1>
+# 🚀 Abdur Razzak - MERN Stack Developer  
 
-### ☕️Languages
+I am a passionate **MERN Stack Developer** with expertise in building modern, scalable, and user-friendly web applications. I specialize in front-end and back-end development with a strong focus on performance and security.  
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-### ⚛️Frameworks
+## 📌 Tech Stack  
 
-![react](https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![nextdotjs](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+### ☕ Languages  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 
+---
 
+### ⚛️ Frameworks & Technologies  
+![React](https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
+![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
 
-### 📘Libraries
+---
 
-![mui](https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+### 📘 Libraries & UI Frameworks  
+![MUI](https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white)  
+![Ant Design](https://img.shields.io/badge/AntDesign-0170FE.svg?style=for-the-badge&logo=antdesign&logoColor=white)  
+![ShadCN](https://img.shields.io/badge/ShadCN-18181B.svg?style=for-the-badge&logo=shadcn&logoColor=white)  
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)  
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)  
+![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)  
+![GSAP](https://img.shields.io/badge/GSAP-00FF00.svg?style=for-the-badge&logo=greensock&logoColor=black)  
 
+---
 
+### 🛠️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
-###
+---
+
+## 📫 Connect with Me  
+🔗 **Portfolio:** [abdur-razzak.online](https://abdur-razzak.online/)  
+🔗 **GitHub:** [github.com/fabrazzak](https://github.com/fabrazzak)  
+🔗 **LinkedIn:** [linkedin.com/in/abdur-razzak](https://linkedin.com/in/abdur-razzak)  
+
+---
+
+🔥 **"I will do coding and change the world!"** 🚀
 
 
 <h2 align="left">I code with</h2>
