@@ -6,6 +6,15 @@
 </p>
 
 
+<div align="center">
+    <img height="200" src="https://raw.githubusercontent.com/fabrazzak/fabrazzak/refs/heads/main/github-header-image%20(1).png" />
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=I+am+a+Front-end+Developer+%26+UI+designer" alt="Typing SVG" />
+</p>
+
+
 <h1 align="left">🧠 Skills Showcase</h1>
 
 ### ☕ Languages  
