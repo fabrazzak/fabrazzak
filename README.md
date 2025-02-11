@@ -46,6 +46,7 @@ I am a passionate **MERN Stack Developer** with expertise in building modern, sc
 ---
 
 ### 📘 Libraries & UI Frameworks  
+ <div  style="display: flex; flex-direction: column; gap: 20px;">
 ![MUI](https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
@@ -56,6 +57,7 @@ I am a passionate **MERN Stack Developer** with expertise in building modern, sc
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)  
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)  
 ![GSAP](https://img.shields.io/badge/GSAP-00FF00.svg?style=for-the-badge&logo=greensock&logoColor=black)  
+ </div>
 
 ---
 
