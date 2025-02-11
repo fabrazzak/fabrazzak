@@ -9,9 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=I+am+a+Front-end+Developer+%26+UI+designer" alt="Typing SVG">
 </p>
 
-<h1 align="left">🚀 About Me</h1>
 
-<p align="justify">Design-Focused Frontend Developer with over 4 years of experience in graphic design and web development. Specializes in creating user-centered, responsive web solutions by integrating UI/UX principles with technical expertise. Proficient in React, TypeScript, and Figma, with a proven track record of translating design concepts into efficient, visually appealing digital products. Skilled in working collaboratively with cross-functional teams to deliver sustainable solutions that balance functionality and aesthetics.</p>
 
 <p align="right">
 <a href="https://www.linkedin.com/in/ayakakojimaak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -35,13 +33,7 @@
 ![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### 🎨Design
 
-![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ### 📘Libraries
 
@@ -53,8 +45,6 @@
 
 
 ###
-
-
 
 
 <h2 align="left">I code with</h2>
