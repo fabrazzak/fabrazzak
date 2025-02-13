@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=I+am+a+passionate+Full+Stack+Developer;With+expertise+in+both+front-end+and+back-end+technologies;+I+specialize+in+building+responsive%2C+user-friendly%2C+and+scalable+web+applications.;My+goal+is+to+write+clean+and+maintainable+code%2C+ensuring+that+all+projects+meet+industry+standards+and+client+requirements.;Currently%2C+I+am+a+Top+Rated+Freelancer+on+Upwork+and+a+dedicated+professional+on+Fiverr.;I+work+with+businesses+of+all+sizes+to+transform+their+ideas+into+functional+and+engaging+web+applications." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=I+am+a+passionate+Full+Stack+Developer;With+expertise+in+both+front-end+and+back-end+technologies;+I+specialize+in+building+responsive%2C+user-friendly%2C+and+scalable+web+applications.;My+goal+is+to+write+clean+and+maintainable+code%2C+ensuring+that+all+projects+meet+industry+standards+and+client+requirements.I+work+with+businesses+of+all+sizes+to+transform+their+ideas+into+functional+and+engaging+web+applications." alt="Typing SVG" />
 </p>
 
 
