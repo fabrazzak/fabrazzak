@@ -110,47 +110,6 @@ I'm a **full stack developer** who builds modern, responsive and scalable web ap
 
 <img width="100%" src="assets/svg/divider.svg" alt="" />
 
-## <img src="assets/svg/emoji-writing.svg" width="34" alt="" /> Latest from my Blog
-
-<!-- BLOG-POSTS:START -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.abdur-razzak.site/blog/handling-scope-creep-how-to-protect-your-time-and-deliver-projects-on-schedule"><img src="https://res.cloudinary.com/ddvt9c7tk/image/upload/c_fill,w_640,h_336,q_auto,f_auto/v1793292989/portfolio/blogs/pixabay-2696234.jpg" alt="Handling Scope Creep: How to Protect Your Time and Deliver Projects on Schedule" /></a>
-      <h4><a href="https://www.abdur-razzak.site/blog/handling-scope-creep-how-to-protect-your-time-and-deliver-projects-on-schedule">Handling Scope Creep: How to Protect Your Time and Deliver Projects on Schedule</a></h4>
-      <sub>Career · 8 min read · Mar 16, 2026</sub>
-      <p>Practical strategies for freelance and agency developers to identify, prevent, and respond to scope creep without…</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://www.abdur-razzak.site/blog/free-learning-resources-for-web-developers-in-2025-the-complete-guide"><img src="https://res.cloudinary.com/ddvt9c7tk/image/upload/c_fill,w_640,h_336,q_auto,f_auto/v1793292988/portfolio/blogs/pixabay-10348917.jpg" alt="Free Learning Resources for Web Developers in 2025: The Complete Guide" /></a>
-      <h4><a href="https://www.abdur-razzak.site/blog/free-learning-resources-for-web-developers-in-2025-the-complete-guide">Free Learning Resources for Web Developers in 2025: The Complete Guide</a></h4>
-      <sub>Career · 8 min read · Mar 12, 2026</sub>
-      <p>A curated collection of free courses, documentation sites, YouTube channels, and practice platforms that cover every…</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.abdur-razzak.site/blog/working-with-international-clients-as-a-freelance-developer-communication-and-contracts"><img src="https://res.cloudinary.com/ddvt9c7tk/image/upload/c_fill,w_640,h_336,q_auto,f_auto/v1793292987/portfolio/blogs/pixabay-6024028.jpg" alt="Working with International Clients as a Freelance Developer: Communication and Contracts" /></a>
-      <h4><a href="https://www.abdur-razzak.site/blog/working-with-international-clients-as-a-freelance-developer-communication-and-contracts">Working with International Clients as a Freelance Developer: Communication and Contracts</a></h4>
-      <sub>Career · 8 min read · Mar 8, 2026</sub>
-      <p>Practical advice for freelance developers on managing international client relationships, time zone differences…</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://www.abdur-razzak.site/blog/clean-code-principles-every-developer-should-apply-from-day-one"><img src="https://res.cloudinary.com/ddvt9c7tk/image/upload/c_fill,w_640,h_336,q_auto,f_auto/v1793292986/portfolio/blogs/pixabay-791392.jpg" alt="Clean Code Principles Every Developer Should Apply From Day One" /></a>
-      <h4><a href="https://www.abdur-razzak.site/blog/clean-code-principles-every-developer-should-apply-from-day-one">Clean Code Principles Every Developer Should Apply From Day One</a></h4>
-      <sub>Career · 9 min read · Mar 5, 2026</sub>
-      <p>Learn the practical clean code habits — naming, functions, structure, and design — that make your code readable…</p>
-    </td>
-  </tr>
-</table>
-<!-- BLOG-POSTS:END -->
-
-<p align="center">
-  <a href="https://www.abdur-razzak.site/blog"><img src="https://img.shields.io/badge/Read%20all%20articles-abdur--razzak.site%2Fblog-06B6D4?style=for-the-badge&logo=rss&logoColor=white" alt="Read all articles" /></a>
-</p>
-
-<img width="100%" src="assets/svg/divider.svg" alt="" />
-
 ## <img src="assets/svg/emoji-chart.svg" width="34" alt="" /> GitHub Stats
 
 <p align="center">

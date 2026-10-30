@@ -701,7 +701,6 @@ const EMOJI_MOTION = {
   briefcase: `<animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" keyTimes="0;0.5;1" ${ease} dur="2.4s" repeatCount="indefinite"/>`,
   rocket: '<animateTransform attributeName="transform" type="translate" values="0 0;3 -5;0 -9;-3 -5;0 0" dur="1.8s" repeatCount="indefinite"/>',
   tools: '<animateTransform attributeName="transform" type="rotate" values="-10 60 60;10 60 60;-10 60 60" dur="2.4s" repeatCount="indefinite"/>',
-  writing: '<animateTransform attributeName="transform" type="translate" values="0 0;6 2;12 0;6 2;0 0" dur="1.6s" repeatCount="indefinite"/>',
   chart: '<animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" keyTimes="0;0.5;1" dur="1.4s" repeatCount="indefinite"/>',
   globe: '<animateTransform attributeName="transform" type="rotate" values="-12 60 60;12 60 60;-12 60 60" dur="5s" repeatCount="indefinite"/>',
   speech: '<animateTransform attributeName="transform" type="rotate" values="0 60 90;-8 60 90;6 60 90;0 60 90;0 60 90" keyTimes="0;.15;.3;.45;1" dur="2.2s" repeatCount="indefinite"/>',
