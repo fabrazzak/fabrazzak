@@ -1,105 +1,112 @@
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFUI3m3oyaNAA/profile-displaybackgroundimage-shrink_200_800/B56ZTwqNPAGoAU-/0/1739204384170?e=1781136000&v=beta&t=nrEki6Vn_EwcRTjHdqYSJXvzooWmee0ZeEHLYorUYC0" />
-</div>
-
-
+<!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&width=435&lines=I+am+a+passionate+Full+Stack+Developer;With+expertise+in+both+front-end+and+back-end+technologies;+I+specialize+in+building+responsive%2C+user-friendly%2C+and+scalable+web+applications.;My+goal+is+to+write+clean+and+maintainable+code%2C+ensuring+that+all+projects+meet+industry+standards+and+client+requirements.I+work+with+businesses+of+all+sizes+to+transform+their+ideas+into+functional+and+engaging+web+applications." alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=Abdur%20Razzak&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descSize=18&descAlignY=58" alt="Abdur Razzak — Full Stack Developer" />
 </p>
 
-
-
-
-
-<h1 align="left">🧠 Skills Showcase</h1>
-
-### ☕ Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <a href="https://abdur-razzak.online/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%7C+MERN+%2B+Next.js;Top+Rated+Freelancer+on+Upwork;I+build+fast%2C+scalable+web+apps;Clean+code.+Happy+clients." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://abdur-razzak.online/"><img src="https://img.shields.io/badge/Portfolio-abdur--razzak.online-06B6D4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abdur-razzak80/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=fabrazzak&label=Profile%20views&color=1E3A8A&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-### ⚛️ Frameworks & Technologies  
-<p align="center">
-  <img src="https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+## 👋 About Me
+
+I'm a **full stack developer** who builds modern, responsive and scalable web applications — from pixel-perfect front ends to secure, well-structured APIs. I care about clean, maintainable code and shipping work that meets real business needs.
+
+- 💼 **Top Rated Freelancer** on Upwork, also working on Fiverr
+- 🚀 Shipped projects from small business sites to large-scale web apps
+- 🌱 Currently going deeper into **advanced TypeScript**, **Next.js** and **cloud platforms**
+- ✨ Writing code (and bugs) since **2018**
+- 🏏 Off the keyboard: cricket, and late-night coding sessions
+- 📫 Open to freelance work and collaborations — [let's talk](#-lets-connect)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts&theme=dark" alt="Languages" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,mui,bootstrap,styledcomponents&theme=dark" alt="Frontend" />
+</p>
+
+**Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend and database" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" alt="Tools" />
+</p>
+
+**Also working with**
+<p>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" alt="DaisyUI" />
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
 </p>
 
 ---
 
-### 📘 Libraries & UI Frameworks  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/AntDesign-0170FE.svg?style=for-the-badge&logo=antdesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/ShadCN-18181B.svg?style=for-the-badge&logo=shadcn&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-00FF00.svg?style=for-the-badge&logo=greensock&logoColor=black" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabrazzak&theme=github_dark" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabrazzak&theme=github" alt="GitHub profile details" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabrazzak&theme=github_dark" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabrazzak&theme=github" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabrazzak&theme=github_dark" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabrazzak&theme=github" alt="Most committed languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fabrazzak&theme=github-dark-blue&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=fabrazzak&hide_border=true" alt="GitHub streak" />
+  </picture>
 </p>
 
 ---
 
-### 🛠️ Tools & Platforms  
+## 🤝 Let's Connect
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <a href="https://abdur-razzak.online/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abdur-razzak80/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@AbdurRazzak-i2f"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.facebook.com/Abdurrazzak309/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://wa.me/8801703906080"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
-🔥 **"I will do coding and change the world!"** 🚀
+<p align="center"><b>Let's build something amazing together! 🚀</b></p>
 
-### Stats and Activity
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrazzak&show_icons=true&locale=en&layout=compact" alt="ABDURRAZZAK" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabrazzak&show_icons=true&locale=en" alt="ABDUR-RAZZAK" /></p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabrazzak&label=Profile%20views&color=0e75b6&style=flat" alt="fabrazzak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabrazzak" alt="fabrazzak" /></a> </p>
-
-### About Me
-I am a professional full-stack developer with expertise in both front-end and back-end development. I specialize in creating modern, responsive, and user-friendly web applications that meet client needs and industry standards. My proficiency includes a variety of programming languages and technologies such as HTML, CSS, JavaScript, React, Node.js, MongoDB, Express, Mongoose, and more. I am dedicated to writing clean, maintainable code and implementing the best practices in software development.
-
-Currently, I am working in the Fiverr and Upwork marketplaces as a Top Rated Freelancer on the Upwork platform, helping businesses and startups bring their ideas to life. I have successfully completed numerous projects ranging from small websites to large-scale web applications. I thrive in dynamic environments and enjoy collaborating with clients to deliver exceptional solutions.
-
-Beyond coding, I am constantly learning and improving my skills in emerging technologies like TypeScript, Next.js, and cloud platforms. My goal is to continue growing as a developer, tackle exciting challenges, and create impactful projects that drive success for my clients.
-
-### Additional Info
-✨ Creating bugs since 2018  
-📚 Currently learning Advanced TypeScript and Next.js  
-🎯 Goal: Become a Senior Developer by 2025  
-🎲 Fun fact: I enjoy cricket and coding late at night.  
-🛠 Passionate about continuous learning and exploring new technologies to stay ahead in web development.  
-🌍 Collaborated with clients across various industries, ensuring their web presence is efficient, engaging, and functional.  
-💡 Eager to solve complex problems and create innovative solutions.
-
-Let's build something amazing together!
-
-
-## 🌍 Connect with Me
-
-You can reach out and connect with me at:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-razzak80/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AbdurRazzak-i2f)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Abdurrazzak309/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01703906080)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9538E2.svg?style=for-the-badge&logo=github&logoColor=white)](https://abdur-razzak.online/)
- 
+<!-- Footer -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0F172A&height=120&section=footer" alt="" />
+</p>
